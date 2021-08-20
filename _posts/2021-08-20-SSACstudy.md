@@ -34,7 +34,7 @@ title:  "SSAC 1차 과제(1/2) / with 시니어코딩 풀스택 과정 Youtube"
 ![image](https://user-images.githubusercontent.com/89231521/130183499-3f1ad884-bacf-43d2-81fb-2ddfc126923e.png)
 
 #### **3. Https인증서 설치 및 도메인 셋팅(무료 도메인은 duckdns.org를 이용)** 
-   https://profitmomentum.duckdns.org/
+   <https://profitmomentum.duckdns.org/>
 ![image](https://user-images.githubusercontent.com/89231521/130183685-83616232-280b-48bf-a64e-966dac63105c.png)
 
 
