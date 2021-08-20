@@ -20,7 +20,7 @@ title:  "SSAC 1차 과제(1/2)"
 ![image](https://user-images.githubusercontent.com/89231521/130182990-07ffb122-86de-4a67-bfa1-4365f51c8246.png)
 
 #### **2. MySQL Workbench 와 ncloud connect test 성공 화면** 
-    이 부분은 한번 더 복습 필요. 개념이 잘 안잡해서 우선 영상을 따라했다.(주말 추가 정리 예정)    
+  이 부분은 한번 더 복습 필요. 개념이 잘 안잡해서 우선 영상을 따라했다.(주말 추가 정리 예정)  
 ![image](https://user-images.githubusercontent.com/89231521/130183499-3f1ad884-bacf-43d2-81fb-2ddfc126923e.png)
 
 #### **3. Https인증서 설치 및 도메인 셋팅(무료 도메인은 duckdns.org를 이용)** 
