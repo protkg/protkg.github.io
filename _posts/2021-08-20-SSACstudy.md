@@ -1,20 +1,50 @@
 ---
 layout: single
-title:  "SSAC 1차 과제"
+title:  "SSAC 1차 과제(1/2)"
 ---
 
 
-# 글 테스트 중
-
-원 투 
-
+## 1차 과제 정리
+### 내용 : 시니어코딩 풀스택 과정 Youtube 영상 #1 ~ #6
 
 
+이 부분은 많이 진행을 한 뒤에, 과제를 포스팅하고 있어서 과정을 따로 기록을 많이 못했다..
+
+####우선 최종 화면
+
+
+1. ncloud 서버 생성, CentOS 서버 생성 및 설정, nginx 설치, node, pm2, python, MsSQL8 설치
+![ncloud](https://user-images.githubusercontent.com/89231521/130182572-0a537859-7742-4239-b0e3-149e1558ad83.jpg)
+ 
+ ####PuTTY ls -algs 화면
+![image](https://user-images.githubusercontent.com/89231521/130182990-07ffb122-86de-4a67-bfa1-4365f51c8246.png)
+
+2. MySQL Workbench 와 ncloud connect test 성공 화면
+    >> 이 부분은 한번 더 복습 필요. 개념이 잘 안잡해서 우선 영상을 따라했다.(주말 추가 정리 예정)
+![image](https://user-images.githubusercontent.com/89231521/130183499-3f1ad884-bacf-43d2-81fb-2ddfc126923e.png)
+
+3. Https인증서 설치 및 도메인 셋팅(무료 도메인은 duckdns.org를 이용)
+   https://profitmomentum.duckdns.org/
+![image](https://user-images.githubusercontent.com/89231521/130183685-83616232-280b-48bf-a64e-966dac63105c.png)
+
+
+####오류 부분
+처음 nginx를 설치하고 나서, systemctl을 적용하는 과정에서 프로세스가 종료되지 않는 오류를 발견했다. 
+
+
+<div class="colorscripter-code" style="color:#010101;font-family:Consolas, 'Liberation Mono', Menlo, Courier, monospace !important; position:relative !important;overflow:auto"><table class="colorscripter-code-table" style="margin:0;padding:0;border:none;background-color:#fafafa;border-radius:4px;" cellspacing="0" cellpadding="0"><tr><td style="padding:6px;border-right:2px solid #e5e5e5"><div style="margin:0;padding:0;word-break:normal;text-align:right;color:#666;font-family:Consolas, 'Liberation Mono', Menlo, Courier, monospace !important;line-height:130%"><div style="line-height:130%">1</div><div style="line-height:130%">2</div></div></td><td style="padding:6px 0;text-align:left"><div style="margin:0;padding:0;color:#010101;font-family:Consolas, 'Liberation Mono', Menlo, Courier, monospace !important;line-height:130%"><div style="padding:0 6px; white-space:pre; line-height:130%">[root@think&nbsp;yum.repos.d]<span style="color:#999999">#&nbsp;nginx&nbsp;-s&nbsp;stop</span></div><div style="padding:0 6px; white-space:pre; line-height:130%">nginx:&nbsp;[error]&nbsp;open()&nbsp;<span style="color:#63a35c">"/var/run/nginx.pid"</span>&nbsp;failed&nbsp;(<span style="color:#0099cc">2</span>:&nbsp;No&nbsp;such&nbsp;file&nbsp;or&nbsp;directory)</div></div></td><td style="vertical-align:bottom;padding:0 2px 4px 0"><a href="http://colorscripter.com/info#e" target="_blank" style="text-decoration:none;color:white"><span style="font-size:9px;word-break:normal;background-color:#e5e5e5;color:white;border-radius:10px;padding:1px">cs</span></a></td></tr></table></div>
+
+
+<< 정말 오랜시간을 찾아보았으나,, 결국 해답을 못찾았고
+시니어 코딩 선생님께서 도와주셔서 해결 할수 있었다.
+
+해결은 kill 명령으로 하면 완료~!
+
+시니어코딩 뒷부분 영상에도 kill 명령어 설명이 나오는데, 이 부분을 듣기전이라 ㅠㅠ오류 자체만 붙잡고 오랬동안 있었다.
 
 
 
 
-![test2]<img src ="https://user-images.githubusercontent.com/89231521/130176634-026d994b-95d4-43d7-b124-dfc303588895.png" width="200">
 
 
 
