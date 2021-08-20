@@ -5,7 +5,7 @@ title:  "SSAC 1차 과제(1/2) / with 시니어코딩 Youtube"
 
 
 ## 1차 과제 정리
-### 내용 : 시니어코딩 풀스택 과정 Youtube 영상 #1 ~ #6
+### 내용 : 시니어코딩 / 풀스택 Youtube 영상 #1 ~ #6
 <iframe width="1380" height="516" src="https://www.youtube.com/embed/HCMXDPYXd9g?list=PLEOnZ6GeucBVj0V5JFQx_6XBbZrrynzMh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
