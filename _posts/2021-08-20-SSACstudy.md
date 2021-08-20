@@ -8,27 +8,27 @@ title:  "SSAC 1차 과제(1/2)"
 ### 내용 : 시니어코딩 풀스택 과정 Youtube 영상 #1 ~ #6
 
 
-이 부분은 많이 진행을 한 뒤에, 과제를 포스팅하고 있어서 과정을 따로 기록을 많이 못했다..
+#### 이 부분은 많이 진행을 한 뒤에, 과제를 포스팅하고 있어서 과정을 따로 기록을 많이 못했다..
 
-####우선 최종 화면
+#### 우선 최종 화면
 
 
-1. ncloud 서버 생성, CentOS 서버 생성 및 설정, nginx 설치, node, pm2, python, MsSQL8 설치
+#### ** 1. ncloud 서버 생성, CentOS 서버 생성 및 설정, nginx 설치, node, pm2, python, MsSQL8 설치 ** 
 ![ncloud](https://user-images.githubusercontent.com/89231521/130182572-0a537859-7742-4239-b0e3-149e1558ad83.jpg)
  
- ####PuTTY ls -algs 화면
+ #### PuTTY ls -algs 화면
 ![image](https://user-images.githubusercontent.com/89231521/130182990-07ffb122-86de-4a67-bfa1-4365f51c8246.png)
 
-2. MySQL Workbench 와 ncloud connect test 성공 화면
-    >> 이 부분은 한번 더 복습 필요. 개념이 잘 안잡해서 우선 영상을 따라했다.(주말 추가 정리 예정)
+#### **  2. MySQL Workbench 와 ncloud connect test 성공 화면 ** 
+    > 이 부분은 한번 더 복습 필요. 개념이 잘 안잡해서 우선 영상을 따라했다.(주말 추가 정리 예정)
 ![image](https://user-images.githubusercontent.com/89231521/130183499-3f1ad884-bacf-43d2-81fb-2ddfc126923e.png)
 
-3. Https인증서 설치 및 도메인 셋팅(무료 도메인은 duckdns.org를 이용)
+#### ** 3. Https인증서 설치 및 도메인 셋팅(무료 도메인은 duckdns.org를 이용) ** 
    https://profitmomentum.duckdns.org/
 ![image](https://user-images.githubusercontent.com/89231521/130183685-83616232-280b-48bf-a64e-966dac63105c.png)
 
 
-####오류 부분
+#### ** 오류 부분 **
 처음 nginx를 설치하고 나서, systemctl을 적용하는 과정에서 프로세스가 종료되지 않는 오류를 발견했다. 
 
 
