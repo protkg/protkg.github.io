@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "SSAC 1차 과제(1/2) / with 시니어코딩 풀스택 과정 Youtube"
+title:  "SSAC 1차 과제(1/2) / with 시니어코딩 Youtube"
 ---
 
 
