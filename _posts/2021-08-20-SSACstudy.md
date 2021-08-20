@@ -6,11 +6,11 @@ title:  "SSAC 1차 과제(1/2) / with 시니어코딩 풀스택 과정 Youtube"
 
 ## 1차 과제 정리
 ### 내용 : 시니어코딩 풀스택 과정 Youtube 영상 #1 ~ #6
+<iframe width="1380" height="516" src="https://www.youtube.com/embed/HCMXDPYXd9g?list=PLEOnZ6GeucBVj0V5JFQx_6XBbZrrynzMh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-이 부분은 많이 진행을 한 뒤에, 과제를 기록하고 있어서 과정을 따로 기록을 많이 못했다..
 
-#### 우선 최종 화면
-
+#### 최종 화면
+해당 부분은 이미 많이 진행을 한 뒤에, 과제를 늦게 기록하고 있어서 공부하는 과정을 따로 많이 기록을 못했다.. 
 
 #### **1. ncloud 서버 생성, CentOS 서버 생성 및 설정, nginx 설치, node, pm2, python, MsSQL8 설치** 
 ![ncloud](https://user-images.githubusercontent.com/89231521/130182572-0a537859-7742-4239-b0e3-149e1558ad83.jpg){: .align-center}
