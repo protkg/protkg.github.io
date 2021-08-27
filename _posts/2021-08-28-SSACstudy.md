@@ -15,7 +15,7 @@ title:  "SSAC 2차 과제 / 숫자 야구 게임 / JavaScript
 
 #### 기능 분할 ####
 
-![정리](https://user-images.githubusercontent.com/89231521/131178880-7e72bdb3-bcc1-438a-810b-07c5f057313c.jpg)
+![정리](https://user-images.githubusercontent.com/89231521/131178880-7e72bdb3-bcc1-438a-810b-07c5f057313c.jpg){: .align-center}
 
 
 #### main.js ####
@@ -25,7 +25,7 @@ title:  "SSAC 2차 과제 / 숫자 야구 게임 / JavaScript
 
 #### main.js // require > import ####
 
-![정리2](https://user-images.githubusercontent.com/89231521/131179140-4d0b2258-0604-4609-bf5e-555abcb839e3.jpg)
+![정리2](https://user-images.githubusercontent.com/89231521/131179140-4d0b2258-0604-4609-bf5e-555abcb839e3.jpg){: .align-center}
 
 
 #### user.js ####
@@ -60,6 +60,6 @@ title:  "SSAC 2차 과제 / 숫자 야구 게임 / JavaScript
 
 
 #### 결과값 ####
-![정리4](https://user-images.githubusercontent.com/89231521/131183094-38342715-8f80-47f5-ad1e-f69a4f5dd4af.jpg)
+![정리4](https://user-images.githubusercontent.com/89231521/131183094-38342715-8f80-47f5-ad1e-f69a4f5dd4af.jpg){: .align-center}
 
 
