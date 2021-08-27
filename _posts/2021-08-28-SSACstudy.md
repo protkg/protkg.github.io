@@ -1,12 +1,8 @@
-
-
-
-
-
 ---
 layout: single
-title:  "SSAC 2차 과제 / 숫자 야구 게임 / JavaScript
+title:  "SSAC 2차 과제 / 숫자 야구 게임 / JavaScript"
 ---
+
 
 ### 과제 순서 : 초안 코딩 > 기능 분할? > 여러가지 함수 적용 & 공부 > 최대한 리팩토링? ###
 
